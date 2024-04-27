@@ -8,7 +8,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AlonsoHC04/TallerNodeJS.git"
+    "url": "git+https://github.com/AlonsoHC04/TallerNodeJS.git",
+    "start": "nodemon index.js"
   },
   "keywords": [
     "node.js",
@@ -23,6 +24,7 @@
   },
   "homepage": "https://github.com/AlonsoHC04/TallerNodeJS#readme",
   "dependencies": {
+    "dotenv": "^16.4.5",
     "express": "^4.19.2"
   }
 }
