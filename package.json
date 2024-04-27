@@ -1,0 +1,28 @@
+{
+  "name": "codigo1",
+  "version": "1.0.0",
+  "description": "esto es un xd para aprender node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlonsoHC04/TallerNodeJS.git"
+  },
+  "keywords": [
+    "node.js",
+    "express",
+    "postman",
+    "Mysql"
+  ],
+  "author": "Alonso",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlonsoHC04/TallerNodeJS/issues"
+  },
+  "homepage": "https://github.com/AlonsoHC04/TallerNodeJS#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
